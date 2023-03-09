@@ -1,9 +1,7 @@
-# Halo semua! 
-Perkenalkan nama saya **Ahmad Alam Ardiansyah**.\
-Saya seorang **Cohort Machine Learning** di [Bangkit Academy](https://grow.google/).\
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M) .\
-Saya juga memiliki gelar [Tensor Flow Developer](https://www.credential.net/h5deoi5h) sejak 2023.\
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/alam-ardiansyah/)ku ya.
+# Hi! 
+I'm a **Cohort Machine Learning 2023** in [Bangkit Academy](https://grow.google/).\
+I have certificate of [Tensor Flow Developer](https://www.credential.net/h5deoi5h) since 2023.\
+If you have interested with my profile, visit me on [Linkedin](https://www.linkedin.com/in/alam-ardiansyah/).
  
 <p align="left">
 <a href="https://github.com/ayamyeagah">
